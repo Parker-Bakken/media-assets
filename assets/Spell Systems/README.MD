@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/Parker-Bakken/media-assets/main/assets/Spell%2
 https://raw.githubusercontent.com/Parker-Bakken/media-assets/main/assets/Spell%20Systems/Purple%20Mode.png
 
 - White Mode:
+https://raw.githubusercontent.com/Parker-Bakken/media-assets/main/assets/Spell%20Systems/White%20Mode.png
