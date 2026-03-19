@@ -7,6 +7,7 @@ Watermark assests for the Spell Systems branch of SorcererCraft
 https://raw.githubusercontent.com/Parker-Bakken/media-assets/main/assets/Spell%20Systems/Dark%20Mode.png
 
 - Light Mode:
+https://raw.githubusercontent.com/Parker-Bakken/media-assets/main/assets/Spell%20Systems/Light%20Mode.png
 
 - Purple Mode:
 
